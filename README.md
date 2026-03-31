@@ -2,9 +2,8 @@
 
 # 🌐 Gaurav Singh —  Portfolio Website
 
-Website Link: https://www.gaurav-singh-portfolio.me/
+Portfolio Website Link: https://www.gaurav-singh-portfolio.me/
 
-<!--
 <h1 align="center">Gaurav Singh</h1>
 
 <p align="center">
@@ -58,14 +57,14 @@ Currently pursuing **MBA in Artificial Intelligence & Data Science**, with hands
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="#"><b>🔗 Add Your Portfolio Link Here</b></a>
+  <a href="#"><b>🔗 https://www.gaurav-singh-portfolio.me/#about</b></a>
 </p>
 
 ---
 
 ## 📬 Contact
 <p align="center">
-  📧 your-email@example.com <br>
+  📧 email:- gauravbisht2803@gmail.com <br>
   🔗 LinkedIn • GitHub
 </p>
 
@@ -74,15 +73,6 @@ Currently pursuing **MBA in Artificial Intelligence & Data Science**, with hands
 <p align="center">
   <i>Simple. Sharp. Outcome-focused.</i>
 </p>
-      Data Science
-      Data Engineering
-      Machine Learning
-      Generative AI
-    Experience
-      Anaptyss
-      AIESEC
-      Sports For All
-    Education
       MBA in AI & DS
       BBA in Finance
     Strengths
