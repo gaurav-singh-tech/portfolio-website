@@ -2,59 +2,67 @@
 
 # 🌐 Gaurav Singh —  Portfolio Website
 
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-2962FF?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-FF6F00?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-F1C40F?style=for-the-badge)
+Website Link: https://www.gaurav-singh-portfolio.me/
 
-> **A modern, fast, and developer‑focused portfolio to showcase projects, skills, case studies, and content in one place.**
+<!--
+  Replace the link placeholders below with your actual URLs.
+  Keep this file in the root of your repository for best visibility.
+-->
 
-[🌍 Live Demo](#) • [🧑‍💻 Author](#-author) • [🛠 Tech Stack](#-tech-stack) • [📷 Screenshots](#-screenshots) • [🚀 Getting-Started](#-getting-started)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Gaurav+Singh;Data+Scientist+%7C+Data+Engineer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <a href="#portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="#resume"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
+</p>
 
----
-
-## ✨ Overview
-
-This repository hosts my **personal developer portfolio website** — a single place where I share:
-
-- 👨‍💻 **Who I am** – background, role, and focus areas  
-- 🚀 **Projects** – AI workflows, automation builds, and real client‑style work  
-- 🧠 **Skills** – Generative AI, automation, n8n, backend tooling, and more  
-- 📝 **Content** – blogs / notes / case studies (optional section)  
-- 📫 **Contact** – how to reach me for collaborations, freelance, or opportunities  
-
-The goal: a **clean, fast, and professional front‑facing profile** that hiring managers, clients, and collaborators can explore in under 60 seconds and still understand what I actually do.
+<p align="center">
+  <b>I build practical AI and data solutions with a business-first mindset.</b>
+</p>
 
 ---
 
-## 🧠 Structure / Information Architecture
+## 🌐 Portfolio
+<p align="center">
+  <a href="#your-portfolio-link-here"><b>🔗 Add your website link here</b></a>
+</p>
 
-```text
-Home
-├─ Hero section (name, headline, CTA button)
-├─ Tech stack highlights
-├─ Featured projects
+---
 
-About
-├─ Short bio
-├─ Experience & focus areas
-├─ Tools & technologies
+## ✨ Snapshot
 
-Projects
-├─ AI / Automation projects
-├─ n8n workflows
-├─ Generative AI experiments
-└─ Links to GitHub repos & live demos
+| Role | Location | Current Focus |
+|---|---|---|
+| Data Scientist · Data Engineer · AI/ML Enthusiast | Dehradun, India | AI, Data Engineering, ML, Generative AI |
 
-Skills
-├─ Programming & scripting
-├─ Automation & orchestration
-├─ Cloud / DevOps basics
-└─ Soft skills
+| Education | Experience | Impact |
+|---|---|---|
+| MBA in AI & Data Science + BBA in Finance | Anaptyss · AIESEC · Sports For All | Compliance analytics, student impact, fundraising |
 
-Contact
-├─ Email
-├─ LinkedIn
-└─ Other social links
+---
+
+## 🧠 Mind Map
+
+```mermaid
+mindmap
+  root((Gaurav Singh))
+    AI / Data
+      Data Science
+      Data Engineering
+      Machine Learning
+      Generative AI
+    Experience
+      Anaptyss
+      AIESEC
+      Sports For All
+    Education
+      MBA in AI & DS
+      BBA in Finance
+    Strengths
+      Problem Solving
+      Communication
+      Stakeholder Management
+      Data Storytelling
