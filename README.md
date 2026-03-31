@@ -5,51 +5,75 @@
 Website Link: https://www.gaurav-singh-portfolio.me/
 
 <!--
-  Replace the link placeholders below with your actual URLs.
-  Keep this file in the root of your repository for best visibility.
--->
+<h1 align="center">Gaurav Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Gaurav+Singh;Data+Scientist+%7C+Data+Engineer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <b>AI & Data Enthusiast • Building Real-World Intelligent Systems</b>
 </p>
 
 <p align="center">
-  <a href="#portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="#resume"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
+## ⚡ About
+I work at the intersection of **AI, Data, and Business** — focused on building systems that are not just technically sound, but practically useful.  
+
+Currently pursuing **MBA in Artificial Intelligence & Data Science**, with hands-on exposure to analytics, compliance workflows, and AI-driven solutions.
+
+---
+
+## 🧠 What I Do
+- Turn raw data into actionable insights  
+- Build AI/ML solutions for real-world problems  
+- Work on automation & intelligent workflows  
+- Continuously explore Generative AI & Data Engineering  
+
+---
+
+## 🧩 Experience Snapshot
+- **Anaptyss** → Data & compliance-focused work  
+- **AIESEC** → Leadership & stakeholder management  
+- **Sports For All** → Execution & impact-driven projects  
+
+---
+
+## 🛠 Core Skills
 <p align="center">
-  <b>I build practical AI and data solutions with a business-first mindset.</b>
+
+`Python` • `SQL` • `Machine Learning` • `Generative AI`  
+`Power BI` • `Excel` • `Data Analysis` • `Problem Solving`
+
 </p>
+
+---
+
+## 🎯 Focus
+> Building a profile that combines **AI capability + business understanding + real impact**
 
 ---
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="#your-portfolio-link-here"><b>🔗 Add your website link here</b></a>
+  <a href="#"><b>🔗 Add Your Portfolio Link Here</b></a>
 </p>
 
 ---
 
-## ✨ Snapshot
-
-| Role | Location | Current Focus |
-|---|---|---|
-| Data Scientist · Data Engineer · AI/ML Enthusiast | Dehradun, India | AI, Data Engineering, ML, Generative AI |
-
-| Education | Experience | Impact |
-|---|---|---|
-| MBA in AI & Data Science + BBA in Finance | Anaptyss · AIESEC · Sports For All | Compliance analytics, student impact, fundraising |
+## 📬 Contact
+<p align="center">
+  📧 your-email@example.com <br>
+  🔗 LinkedIn • GitHub
+</p>
 
 ---
 
-## 🧠 Mind Map
-
-```mermaid
-mindmap
-  root((Gaurav Singh))
-    AI / Data
+<p align="center">
+  <i>Simple. Sharp. Outcome-focused.</i>
+</p>
       Data Science
       Data Engineering
       Machine Learning
