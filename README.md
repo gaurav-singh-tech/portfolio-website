@@ -11,9 +11,9 @@ Portfolio Website Link: https://www.gaurav-singh-portfolio.me/
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://github.com/gaurav-singh-tech?tab=repositories"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://www.linkedin.com/in/contact-gauravsingh/"/></a>
 </p>
 
 ---
@@ -65,13 +65,12 @@ Currently pursuing **MBA in Artificial Intelligence & Data Science**, with hands
 ## 📬 Contact
 <p align="center">
   📧 email:- gauravbisht2803@gmail.com <br>
-  🔗 LinkedIn • GitHub
 </p>
 
 ---
 
 <p align="center">
-  <i>Simple. Sharp. Outcome-focused.</i>
+ 
 </p>
       MBA in AI & DS
       BBA in Finance
